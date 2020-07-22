@@ -32,10 +32,10 @@ decamelize@^1.1.2:
   resolved "https://registry.yarnpkg.com/decamelize/-/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
-dockerfile-build-tools@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/dockerfile-build-tools/-/dockerfile-build-tools-0.0.4.tgz#75eb1828ca09c07bf55eb2d97adffac55251e691"
-  integrity sha512-hIUqL8Zc5TkX2AGeLVtfkqTsXReGN6bZypKTzZQ/rbqMqiK7ctcMY1SRJx9E/eBgZFrCb1HaUFFN2TcoyoxoHA==
+dockerfile-build-tools@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/dockerfile-build-tools/-/dockerfile-build-tools-0.0.5.tgz#cbb373319e4a16c6a2de3da8096a70981092e443"
+  integrity sha512-KG5liLcNP49+F6F32OXAq7t7rpC7mddxMmn63lkG+i3BLd4Q9plaad/AkEnVJxRB8PsRiL2T0Ja+ukraAQeelA==
   dependencies:
     path "^0.12.7"
     realpath "^1.1.0"

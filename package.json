@@ -1,5 +1,6 @@
 {
   "name": "docker-node-yarn",
+  "docker-username": "aariacarterweir",
   "version": "0.0.1",
   "homepage": "https://github.com/aariacarterweir/docker-node-yarn",
   "bugs": "https://github.com/aariacarterweir/docker-node-yarn/issues",
@@ -10,6 +11,6 @@
     "url": "https://github.com/aariacarterweir/docker-node-yarn.git"
   },
   "dependencies": {
-    "dockerfile-build-tools": "^0.0.4"
+    "dockerfile-build-tools": "^0.0.5"
   }
 }
