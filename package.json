@@ -1,15 +1,15 @@
 {
-  "name": "docker-alpine-yarn",
+  "name": "docker-node-yarn",
   "version": "0.0.1",
-  "homepage": "https://github.com/aariacarterweir/docker-alpine-yarn",
-  "bugs": "https://github.com/aariacarterweir/docker-alpine-yarn/issues",
+  "homepage": "https://github.com/aariacarterweir/docker-node-yarn",
+  "bugs": "https://github.com/aariacarterweir/docker-node-yarn/issues",
   "license": "MIT",
   "author": "Aaria Carter-Weir",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aariacarterweir/docker-alpine-yarn.git"
+    "url": "https://github.com/aariacarterweir/docker-node-yarn.git"
   },
   "dependencies": {
-    "dockerfile-build-tools": "^0.0.2"
+    "dockerfile-build-tools": "^0.0.4"
   }
 }
