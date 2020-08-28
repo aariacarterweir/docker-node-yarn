@@ -1,4 +1,4 @@
-# Extend the latest ubuntu image
+# Extend the latest alpine linux image
 FROM alpine:latest
 
 # Update
@@ -7,7 +7,9 @@ RUN apk update
 # Install apk packages
 RUN apk add \
     nodejs \
-    yarn
+    yarn \
+    git \
+    openssh-client
 
 # Possibly uneccessary, but for a while the alpine yarn package was out of date.
 # This will ensure that doesn't happen again
