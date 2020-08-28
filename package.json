@@ -1,7 +1,7 @@
 {
   "name": "docker-node-yarn",
   "docker-username": "aariacarterweir",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/aariacarterweir/docker-node-yarn",
   "bugs": "https://github.com/aariacarterweir/docker-node-yarn/issues",
   "license": "MIT",
