@@ -12,8 +12,11 @@ RUN apk add \
     openssh-client
 
 # Possibly uneccessary, but for a while the alpine yarn package was out of date.
-# This will ensure that doesn't happen again
+# This will (hopefully) ensure that doesn't happen again
 RUN yarn set version latest
+
+# Set env var to define this as being a docker container
+ENV BUILD_ENV docker
 
 # Set work dir to source
 WORKDIR /source/
